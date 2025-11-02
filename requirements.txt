@@ -1,0 +1,9 @@
+bs4>=4.12.2
+langchain>=0.3.10
+langchain_core>=0.3.0
+langchain-community>=0.0.208
+langchain-google-genai>=2.0.0
+langgraph-cli>=0.2.6
+langgraph>=0.2.0
+langsmith>=0.1.17,<0.2.0
+python-dotenv>=1.0.0
